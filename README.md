@@ -13,9 +13,10 @@
         Sistemas operacionais, Redes de computadores, Engenharia de software, 
         Desenvolvimento mobile, Arquitetura e organização de computadores.
 
-
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovarrone&show_icons=true&theme=radical)
+
 
 
 <div style="display: inline_block"><br>
