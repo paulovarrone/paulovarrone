@@ -1,6 +1,6 @@
 ### Olá eu sou o Paulo, estudante de Sistemas de Informação.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias 
       
       Atualmente estou estudando: 
       - HTML e CSS
