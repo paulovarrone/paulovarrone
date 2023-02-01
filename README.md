@@ -13,7 +13,6 @@
         Sistemas operacionais, Redes de computadores, Engenharia de software, 
         Desenvolvimento mobile, Arquitetura e organização de computadores.
 
-##
 
 
 <div style="display: inline_block"><br>
