@@ -7,8 +7,8 @@
       
       Atualmente estou estudando: 
       - HTML 
-      - Javascript
       - CSS
+      - Javascript
       - RedHat Linux
 
 ## 📚 Estudante de Sistemas de Informação
