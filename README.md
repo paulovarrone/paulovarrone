@@ -2,10 +2,13 @@
 
 ## 🚀 Tecnologias 
       
+      Como iniciante em Front-End, tenho conhecimentos básicos em HTML, CSS e JavaScript e 
+      busco aprimorá-los continuamente para entregar soluções modernas e intuitivas na web.
+      
       Atualmente estou estudando: 
-      - HTML e CSS
-      - Java e Javascript
-      - C e C++
+      - HTML 
+      - Javascript
+      - CSS
       - RedHat Linux
 
 ## 📚 Estudante de Sistemas de Informação
