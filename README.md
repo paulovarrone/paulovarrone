@@ -2,8 +2,8 @@
 
 ## 🚀 Tecnologias 
       
-      Tenho conhecimentos em HTML, CSS e JavaScript e 
-      busco aprimorá-los continuamente para entregar soluções modernas e intuitivas na web.
+      Tenho conhecimentos em HTML, CSS e JavaScript.
+      Busco aprimorá-las continuamente para entregar soluções modernas e intuitivas na web.
       
       Atualmente estou estudando: 
       - HTML 
