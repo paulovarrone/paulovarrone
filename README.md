@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias 
       
-      Como iniciante em Front-End, tenho conhecimentos básicos em HTML, CSS e JavaScript e 
+      Tenho conhecimentos em HTML, CSS e JavaScript e 
       busco aprimorá-los continuamente para entregar soluções modernas e intuitivas na web.
       
       Atualmente estou estudando: 
