@@ -1,9 +1,10 @@
 ### Olá eu sou o Paulo, estudante de Sistemas de Informação.
 
-## 🚀 Tecnologias 
+## 🚀 Tecnologias - <a href="https://prvdev.com" target="_blank">MEU SITE</a>
       
       Tenho conhecimentos em HTML, CSS e JavaScript. 
       Busco aprimorá-las continuamente para entregar soluções modernas e intuitivas na web.
+      
       
       Atualmente estou estudando: 
       - HTML 
