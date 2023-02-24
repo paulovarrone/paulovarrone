@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias 
       
-      Tenho conhecimentos em HTML, CSS e JavaScript. Este é <div>  <a href="https://prvdev.com" target="_blank">EU SITE</a> </div> se quiser ver.
+      Tenho conhecimentos em HTML, CSS e JavaScript. 
       Busco aprimorá-las continuamente para entregar soluções modernas e intuitivas na web.
       
       Atualmente estou estudando: 
