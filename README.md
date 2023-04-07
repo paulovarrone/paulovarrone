@@ -10,7 +10,7 @@
       - HTML 
       - CSS
       - Javascript
-      - RedHat Linux
+      - Lógica da programação
 
 ## 📚 Estudante de Sistemas de Informação
       - Programação, Estrutura de dados, Desenvolvimento web, Banco de dados, 
