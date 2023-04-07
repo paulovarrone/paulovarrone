@@ -6,7 +6,7 @@
       Busco aprimorá-las continuamente para entregar soluções modernas e intuitivas na web.
       
       
-      Atualmente estou estudando: 
+      Hard Skills: 
       - HTML 
       - CSS
       - Javascript
