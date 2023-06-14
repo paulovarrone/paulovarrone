@@ -4,6 +4,7 @@
       
       Tenho conhecimentos em desenvolvimento web, programação e Linux. 
       Busco aprimorar estas tecnologias continuamente para entregar soluções modernas e intuitivas na web.
+      Focado em aprender sobre o mundo da segurança cibernética.
       
       
       Hard Skills: 
