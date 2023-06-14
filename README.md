@@ -2,8 +2,8 @@
 
 ## 🚀 Tecnologias - <a href="https://prvdev.com" target="_blank">MEU SITE</a>
       
-      Tenho conhecimentos em HTML, CSS e JavaScript. 
-      Busco aprimorá-las continuamente para entregar soluções modernas e intuitivas na web.
+      Tenho conhecimentos em desenvolvimento web, programação e Linux. 
+      Busco aprimorar estas tecnologias continuamente para entregar soluções modernas e intuitivas na web.
       
       
       Hard Skills: 
@@ -11,6 +11,8 @@
       - CSS
       - Javascript
       - Lógica da programação
+      - C
+      - Linux
 
 ## 📚 Estudante de Sistemas de Informação
       - Programação, Estrutura de dados, Desenvolvimento web, Banco de dados, 
