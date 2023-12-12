@@ -14,6 +14,10 @@
       - Lógica da programação
       - C
       - Linux
+      - C# Unity
+      - SQL
+      - Python
+      - Java
 
 ## 📚 Estudante de Sistemas de Informação
       - Programação, Estrutura de dados, Desenvolvimento web, Banco de dados, 
