@@ -21,7 +21,7 @@
       - DOCKER
 
 ## 📚 Estudante de Sistemas de Informação
-      - Programação, Estrutura de dados, Desenvolvimento web, Banco de dados, 
+      - Programação, Estrutura de dados, Desenvolvimento Web, Banco de dados, 
         Sistemas operacionais, Redes de computadores, Engenharia de software, 
         Desenvolvimento mobile, Arquitetura e organização de computadores.
 
