@@ -2,23 +2,18 @@
 
 ## 🚀 Tecnologias
       
-      Tenho conhecimentos em desenvolvimento web, programação e Linux. 
-      Busco aprimorar estas tecnologias continuamente para entregar soluções modernas e intuitivas na web.
-      Focado em aprender sobre o mundo da segurança cibernética.
+      Desenvolvedor Full Stack Python com 2 anos de experiência em produção na Procuradoria Geral do Município do Rio de Janeiro, 
+      atuando com APIs, Machine Learning, Data Lakes, web scraping e infraestrutura de monitoramento com Zabbix/ELK Stack em 
+      ambientes Docker/Linux. Vencedor global do NASA Space Apps Challenge (prêmio Impacto Galáctico). Experiência adicional em 
+      desenvolvimento de jogos educacionais com Unity3D e monitoria acadêmica em Web e Programação. 
       
       
       Hard Skills: 
-      - HTML 
-      - CSS
-      - Javascript
-      - Lógica da programação
-      - C
-      - Linux
-      - C# Unity
-      - SQL
-      - Python
-      - AWS
-      - DOCKER
+        • AWS, Azure, Python, SQL, Cypress
+        • Linux, Git, Docker, Zabbix, Playwright
+        • HTML, CSS e Js, C# Unity
+        • Redes de Computadores
+
 
 ## 📚 Estudante de Sistemas de Informação
       - Programação, Estrutura de dados, Desenvolvimento Web, Banco de dados, 
@@ -28,6 +23,8 @@
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="pr-C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/cypressio/cypressio-original.svg"> 
+  <img align="center" alt="pr-C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/playwright/playwright-original.svg"> 
   <img align="center" alt="pr-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">   
   <img align="center" alt="pr-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">   
   <img align="center" alt="pr-C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
