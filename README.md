@@ -2,10 +2,13 @@
 
 ## 🚀 Tecnologias
       
-      Desenvolvedor Full Stack Python com 2 anos de experiência em produção na Procuradoria Geral do Município do Rio de Janeiro, 
-      atuando com APIs, Machine Learning, Data Lakes, web scraping e infraestrutura de monitoramento com Zabbix/ELK Stack em 
-      ambientes Docker/Linux. Vencedor global do NASA Space Apps Challenge (prêmio Impacto Galáctico). Experiência adicional em 
-      desenvolvimento de jogos educacionais com Unity3D e monitoria acadêmica em Web e Programação. 
+      Desenvolvedor Full Stack Python com 2 anos de experiência em produção
+      na Procuradoria Geral do Município do Rio de Janeiro, atuando com APIs, 
+      Machine Learning, Data Lakes, web scraping e infraestrutura de 
+      monitoramento com Zabbix/ELK Stack em ambientes Docker/Linux. 
+      Vencedor global do NASA Space Apps Challenge (prêmio Impacto Galáctico). 
+      Experiência adicional em desenvolvimento de jogos educacionais 
+      com Unity3D e monitoria acadêmica em Web e Programação. 
       
       
       Hard Skills: 
